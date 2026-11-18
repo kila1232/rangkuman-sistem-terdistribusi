@@ -1,0 +1,12 @@
+{
+  "name": "tools",
+  "private": true,
+  "type": "module",
+  "description": "Utilitas pendukung repository rangkuman",
+  "scripts": {
+    "extract": "node extract-pdf.mjs"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^6.5.438"
+  }
+}
