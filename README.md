@@ -13,15 +13,13 @@ Setiap minggu punya satu berkas `README.md`, dan kode pendamping (jika ada) disi
 
 | Field | Isi |
 | --- | --- |
-| Nama | — |
-| NIM | — |
+| Nama | Nasykhariyanda Pratama |
+| NIM | 205410181 |
 | Program Studi | Informatika |
 | Fakultas | Fakultas Teknologi Informasi, UTDI |
 | Mata Kuliah | Sistem Terdistribusi dan Terdesentralisasi |
 | Kode / SKS | FIF25002T / 3 SKS |
-| Semester | — |
-
-> Isi `Nama`, `NIM`, dan `Semester` sesuai data akademik masing-masing.
+| Semester | Ganjil 2026/2027 |
 
 ## Daftar Materi
 
